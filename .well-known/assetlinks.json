@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.sanjainoah.networth",
+        "sha256_cert_fingerprints": ["40:F3:16:F3:A9:E1:F6:38:F2:49:29:C1:4B:0A:39:E6:82:A9:74:EA:E9:BF:E7:EF:A2:1E:41:7C:2B:28:A6:20"]
+      }
+    }]
